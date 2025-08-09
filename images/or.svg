@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150mm"
+   height="149.99998mm"
+   viewBox="0 0 150 149.99999"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1"
+     transform="translate(-30,-73.5)">
+    <rect
+       style="fill:#d7dce3;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect31"
+       width="150"
+       height="150"
+       x="30"
+       y="73.5" />
+    <g
+       id="g1"
+       transform="translate(0,-1.1393117)"
+       style="stroke:#4d4639;stroke-opacity:1">
+      <path
+         style="fill:none;stroke:#4d4639;stroke-width:2.48057;stroke-dasharray:none;stroke-opacity:1"
+         id="path1"
+         d="M 102.89333,121.50293 72.164126,128.24033 56.260632,101.09709 77.160939,77.584243 105.98153,90.195747 Z"
+         transform="matrix(1.2072071,0.25296909,-0.26411775,1.1562498,32.332224,-16.85393)" />
+      <path
+         style="fill:none;stroke:#4d4639;stroke-width:2.48057;stroke-dasharray:none;stroke-opacity:1"
+         id="path1-6"
+         d="M 102.89333,121.50293 72.164126,128.24033 56.260632,101.09709 77.160939,77.584243 105.98153,90.195747 Z"
+         transform="matrix(1.2072071,-0.25296909,-0.26411775,-1.1562498,32.332224,316.13258)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-family:'Ubuntu Sans';-inkscape-font-specification:'Ubuntu Sans';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#c3af9a;fill-opacity:1;stroke:#c3af9a;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+       x="91.219971"
+       y="160.36336"
+       id="text1"><tspan
+         id="tspan1"
+         style="fill:#c3af9a;fill-opacity:1;stroke:#c3af9a;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+         x="91.219971"
+         y="160.36336">R</tspan></text>
+  </g>
+</svg>
