@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="149.99998mm"
+   height="150.00002mm"
+   viewBox="0 0 149.99998 150.00002"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1"
+     transform="translate(-29.999999,-73.500007)">
+    <rect
+       style="fill:#d7dce3;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect31"
+       width="150"
+       height="150"
+       x="29.999994"
+       y="73.500015" />
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#4d4639;stroke-width:4.01179733;stroke-dasharray:none;stroke-opacity:1"
+       id="path13"
+       cx="-10.043163"
+       cy="182.68411"
+       rx="38.326309"
+       ry="61.479263"
+       transform="matrix(0.84621713,-0.53283822,0.62128388,0.78358557,0,0)" />
+    <path
+       style="fill:#c3af9a;fill-opacity:1;stroke:#c3af9a;stroke-width:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 92.62901,155.72851 c -8.155766,24.98895 6.032289,3.07171 6.032289,3.07171 0,0 26.462221,0.14169 27.192971,-14.29965 0.55665,-11.00081 -9.88589,-15.70156 -18.49239,-16.56536 -11.220732,-1.12619 -25.930652,4.80003 -22.844034,17.49995 1.890232,7.77738 8.111164,10.29335 8.111164,10.29335 z"
+       id="path21" />
+    <g
+       id="g22"
+       transform="translate(11.847642,-5.8208356)">
+      <ellipse
+         style="fill:#ece9e7;fill-opacity:1;stroke:#ece9e7;stroke-width:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path22"
+         cx="86.229836"
+         cy="148.50002"
+         rx="3.8791175"
+         ry="3.5264704" />
+      <ellipse
+         style="fill:#ece9e7;fill-opacity:1;stroke:#ece9e7;stroke-width:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path22-6"
+         cx="100.07487"
+         cy="148.50002"
+         rx="3.8791175"
+         ry="3.5264704" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#c3af9a;fill-opacity:1;stroke:#c3af9a;stroke-width:4;stroke-dasharray:none;stroke-opacity:1"
+       x="112.6157"
+       y="180.69559"
+       id="text22"><tspan
+         id="tspan22"
+         style="stroke-width:4"
+         x="112.6157"
+         y="180.69559">B</tspan></text>
+  </g>
+</svg>
