@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="149.99998mm"
+   height="150.00002mm"
+   viewBox="0 0 149.99998 150.00002"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
@@ -32,13 +32,25 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="149.99998"
+       height="150.00002"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
   <defs
      id="defs2" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-29.999999,-73.500007)">
     <rect
        style="fill:#ece9e7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583"
        id="rect31"
@@ -113,16 +125,5 @@
          x="42.155521"
          y="147.89185" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="81.196846"
-       y="167.80681"
-       id="text8577"><tspan
-         sodipodi:role="line"
-         id="tspan8575"
-         style="stroke-width:0.264583"
-         x="81.196846"
-         y="167.80681" /></text>
   </g>
 </svg>
