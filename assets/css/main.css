@@ -3862,11 +3862,14 @@ body.is-preload #header.alt .logo {
 /*My custom classes*/
 
 .myclass {
-  font-size: 5em;
+  font-size: 3em;
+  width: 4em;
+  height: 4em;
+  line-height: 4em;
+  text-align: center;
   border: solid 1px;
+  border-radius: 50%;
   display: inline-block;
-  border-radius: 100%;
-  padding: 0.65em;
   cursor: default;
   margin-bottom: 0.5em;
 }
