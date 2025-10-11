@@ -182,15 +182,15 @@ html {
 }
 
 body {
-  background-color: #4d4639;
+  background-color: #DDBEA9;
   background-image: url("images/overlay.png"),
-    -moz-linear-gradient(45deg, #c3af9a 15%, #EDECE8 85%);
+    -moz-linear-gradient(45deg, #DDBEA9 15%, #A2B5CD 85%);
   background-image: url("images/overlay.png"),
-    -webkit-linear-gradient(45deg, #c3af9a 15%, #EDECE8 85%);
+    -webkit-linear-gradient(45deg, #DDBEA9 15%, #A2B5CD 85%);
   background-image: url("images/overlay.png"),
-    -ms-linear-gradient(45deg, #c3af9a 15%, #EDECE8 85%);
+    -ms-linear-gradient(45deg, #DDBEA9 15%, #A2B5CD 85%);
   background-image: url("images/overlay.png"),
-    linear-gradient(45deg, #c3af9a 15%, #EDECE8 85%);
+    linear-gradient(45deg, #DDBEA9 15%, #A2B5CD 85%);
 }
 
 body.is-preload *,
