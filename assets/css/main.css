@@ -182,15 +182,22 @@ html {
 }
 
 body {
-  background-color: #DDBEA9;
-  background-image: url("images/overlay.png"),
-    -moz-linear-gradient(45deg, #DDBEA9 15%, #A2B5CD 85%);
-  background-image: url("images/overlay.png"),
-    -webkit-linear-gradient(45deg, #DDBEA9 15%, #A2B5CD 85%);
-  background-image: url("images/overlay.png"),
-    -ms-linear-gradient(45deg, #DDBEA9 15%, #A2B5CD 85%);
-  background-image: url("images/overlay.png"),
-    linear-gradient(45deg, #DDBEA9 15%, #A2B5CD 85%);
+  animation: gradient-rotate;
+  animation-duration: 30s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes  gradient-rotate {
+  0%{
+    background-color: #D7DCE3;
+  }
+  50% {
+    background-color: #8CA4BB;
+  }
+  100% {
+    background-color: #D7DCE3;
+  }
+  
 }
 
 body.is-preload *,
@@ -209,7 +216,6 @@ body.is-preload *:after {
 /* Type */
 
 body {
-  background-color: #4d4639;
   color: rgba(77, 70, 57, 255);
 }
 
