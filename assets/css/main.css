@@ -3885,3 +3885,21 @@ body.is-preload #header.alt .logo {
 .myicon {
   font-size: 3em;
 }
+
+
+.references-source{
+  font-style: italic;
+}
+
+.number-section{
+  color: red;
+}
+
+.image-cite{
+  text-align: right;
+  font-size: 0.8em;
+}
+
+.image-footer{
+  font-size: 0.8em;
+}
