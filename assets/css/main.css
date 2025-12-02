@@ -3906,3 +3906,9 @@ body.is-preload #header.alt .logo {
 .quote {
   font-style: italic;
 }
+
+.quote-center {
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+}
