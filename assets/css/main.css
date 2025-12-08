@@ -3912,3 +3912,9 @@ body.is-preload #header.alt .logo {
   font-style: italic;
   text-align: center;
 }
+
+.source-title {
+  font-weight: bold;
+  font-size: 0.8em;
+  font-style: italic;
+}
