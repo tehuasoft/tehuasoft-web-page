@@ -3961,3 +3961,306 @@ body.is-preload #header.alt .logo {
   font-size: 0.8em;
   font-style: italic;
 }
+
+/* Professional Pricing Table Styles */
+
+.pricing-subtitle {
+  font-size: 1.1rem;
+  color: #666;
+  margin-bottom: 2rem;
+}
+
+.pricing-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin: 3rem 0;
+}
+
+.pricing-card {
+  background: #fff;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.pricing-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.12);
+}
+
+.pricing-card.featured {
+  transform: scale(1.02);
+  border: 2px solid #8cc9f0;
+  box-shadow: 0 15px 35px rgba(140, 201, 240, 0.2);
+}
+
+.pricing-card.featured:hover {
+  transform: scale(1.02) translateY(-10px);
+}
+
+.popular-badge {
+  position: absolute;
+  top: 20px;
+  right: -30px;
+  background: #8cc9f0;
+  color: #fff;
+  padding: 8px 30px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  transform: rotate(45deg);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.pricing-header {
+  padding: 2rem 1.5rem 1.5rem;
+  text-align: center;
+  color: #fff;
+}
+
+.pricing-header.basic {
+  background: linear-gradient(135deg, #8ca4bb 0%, #a2b5cd 100%);
+}
+
+.pricing-header.pro {
+  background: linear-gradient(135deg, #8cc9f0 0%, #6a9fb5 100%);
+}
+
+.pricing-header.premium {
+  background: linear-gradient(135deg, #c3af9a 0%, #b89e8a 100%);
+}
+
+.pricing-header h3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 0 0 1rem;
+  color: #fff;
+}
+
+.price {
+  margin: 1rem 0;
+}
+
+.price .currency {
+  font-size: 1.2rem;
+  vertical-align: top;
+  margin-right: 2px;
+  opacity: 0.9;
+}
+
+.price .amount {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.price .period {
+  display: block;
+  font-size: 0.9rem;
+  opacity: 0.8;
+  margin-top: 5px;
+}
+
+.pricing-body {
+  padding: 2rem 1.5rem;
+  background: #fff;
+}
+
+.pricing-features {
+  list-style: none;
+  margin: 0 0 2rem;
+  padding: 0;
+}
+
+.pricing-features li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.pricing-features li:last-child {
+  border-bottom: none;
+}
+
+.pricing-features i {
+  color: #8cc9f0;
+  font-size: 1.1rem;
+  min-width: 20px;
+}
+
+.pricing-features i.fa-clock {
+  color: #f0b27a;
+}
+
+.pricing-features span {
+  font-size: 0.95rem;
+  color: #555;
+  line-height: 1.4;
+  text-align: left;
+}
+
+.pricing-footer {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.pricing-footer .button {
+  width: 100%;
+  font-size: 1rem;
+  background: #8cc9f0;
+  border: none;
+  transition: all 0.3s ease;
+}
+
+.pricing-footer .button:hover {
+  background: #7ab8e0;
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(140, 201, 240, 0.3);
+}
+
+/* Retainer Section */
+.retainer-section {
+  background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+  border-radius: 20px;
+  padding: 2.5rem;
+  margin: 3rem 0;
+  border: 2px solid #8cc9f0;
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.05);
+}
+
+.retainer-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid rgba(140, 201, 240, 0.3);
+}
+
+.retainer-header h3 {
+  font-size: 2rem;
+  color: #333;
+  margin: 0;
+}
+
+.retainer-price {
+  text-align: right;
+}
+
+.retainer-price .currency {
+  font-size: 1.2rem;
+  color: #8cc9f0;
+  vertical-align: top;
+}
+
+.retainer-price .amount {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #333;
+}
+
+.retainer-price .period {
+  font-size: 1rem;
+  color: #666;
+}
+
+.retainer-body {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 2rem;
+  align-items: center;
+}
+
+.retainer-description p {
+  font-size: 1.1rem;
+  color: #8cc9f0;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.retainer-description p i {
+  margin-right: 10px;
+}
+
+.retainer-features {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.retainer-features li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 0;
+}
+
+.retainer-features i {
+  color: #8cc9f0;
+  font-size: 0.9rem;
+}
+
+.retainer-action {
+  text-align: right;
+}
+
+.retainer-action .button {
+  font-size: 1.1rem;
+  background: linear-gradient(135deg, #8cc9f0 0%, #6a9fb5 100%);
+  border: none;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 980px) {
+  .pricing-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .pricing-card.featured {
+    order: -1;
+    grid-column: span 2;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+
+  .retainer-body {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .retainer-action {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 736px) {
+  .pricing-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .pricing-card.featured {
+    grid-column: auto;
+  }
+
+  .retainer-header {
+    flex-direction: column;
+    text-align: center;
+    gap: 1rem;
+  }
+
+  .retainer-price {
+    text-align: center;
+  }
+
+  .pricing-features span {
+    font-size: 0.9rem;
+  }
+}
