@@ -4208,11 +4208,11 @@ body.is-preload #header.alt .logo {
 }
 
 .retainer-action {
-  text-align: right;
+  text-align: left;
 }
 
 .retainer-action .button {
-  font-size: 1.1rem;
+  font-size: 1.5rem;
   background: linear-gradient(135deg, #8cc9f0 0%, #6a9fb5 100%);
   border: none;
 }
