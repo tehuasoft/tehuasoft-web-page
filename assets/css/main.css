@@ -3827,7 +3827,7 @@ body.is-preload #header.alt .logo {
   -webkit-flex-wrap: wrap;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  padding: 5em 5em 3em 5em;
+  padding: 1em 5em 1em 5em;
   width: calc(100% + 2em);
   margin: 0 0 3em -2em;
 }
@@ -4263,4 +4263,24 @@ body.is-preload #header.alt .logo {
   .pricing-features span {
     font-size: 0.9rem;
   }
+}
+
+.features li.featured {
+  position: relative;
+  border: 2px solid #8cc9f0;
+  border-radius: 8px;
+  padding: 1.5rem;
+}
+
+.featured-badge {
+  position: absolute;
+  top: -10px;
+  right: 20px;
+  background: #8cc9f0;
+  color: white;
+  padding: 4px 15px;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
 }
