@@ -3910,7 +3910,6 @@ body.is-preload #header.alt .logo {
 }
 
 /*My custom classes*/
-
 .myclass {
   font-size: 3em;
   width: 4em;
@@ -3923,7 +3922,6 @@ body.is-preload #header.alt .logo {
   cursor: default;
   margin-bottom: 0.5em;
 }
-
 .myicon {
   font-size: 3em;
 }
