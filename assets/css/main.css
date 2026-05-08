@@ -4004,8 +4004,8 @@ body.is-preload #header.alt .logo {
 
 .popular-badge {
   position: absolute;
-  top: 20px;
-  right: -30px;
+  top: 30px;
+  right: -40px;
   background: #8cc9f0;
   color: #fff;
   padding: 8px 30px;
